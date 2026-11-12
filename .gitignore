@@ -1,0 +1,24 @@
+# Build artifacts
+/build/
+/cmake-build*/
+/CMakeFiles/
+/CMakeCache.txt
+*.obj
+*.o
+*.a
+*.lib
+*.exe
+*.pdb
+*.ilk
+
+# Local database data
+/data/
+
+# Environments and IDE
+/.venv/
+/.vscode/
+/.idea/
+
+# OS
+.DS_Store
+Thumbs.db
